@@ -1,0 +1,28 @@
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\New Configuration.exe
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\New Configuration.deps.json
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\New Configuration.runtimeconfig.json
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\New Configuration.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\New Configuration.pdb
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\New Configuration.csproj.AssemblyReference.cache
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\New Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\New Configuration.AssemblyInfoInputs.cache
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\New Configuration.AssemblyInfo.cs
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\New Configuration.csproj.CoreCompileInputs.cache
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\New Conf.E4F5F0B0.Up2Date
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\New Configuration.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\refint\New Configuration.dll
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\New Configuration.pdb
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\New Configuration.genruntimeconfig.cache
+C:\Users\mmahendrareddy\Desktop\New Configuration\obj\Debug\net8.0\ref\New Configuration.dll

@@ -1,0 +1,7 @@
+C:\Users\mmahendrareddy\Desktop\Old_Configuration\obj\Debug\Old_Configuration.csprojAssemblyReference.cache
+C:\Users\mmahendrareddy\Desktop\Old_Configuration\obj\Debug\Old_Configuration.csproj.CoreCompileInputs.cache
+C:\Users\mmahendrareddy\Desktop\Old_Configuration\bin\Debug\Old_Configuration.exe.config
+C:\Users\mmahendrareddy\Desktop\Old_Configuration\bin\Debug\Old_Configuration.exe
+C:\Users\mmahendrareddy\Desktop\Old_Configuration\bin\Debug\Old_Configuration.pdb
+C:\Users\mmahendrareddy\Desktop\Old_Configuration\obj\Debug\Old_Configuration.exe
+C:\Users\mmahendrareddy\Desktop\Old_Configuration\obj\Debug\Old_Configuration.pdb
